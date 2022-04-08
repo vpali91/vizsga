@@ -1,0 +1,8 @@
+Készíts egy rest api-t, ami diákok adatainak nyilvántartását végzi el.
+Az adatok tárolásához használj sqlite adatbázist, amit külön fájl segítségével is létrehozhatsz.
+A következő adatokat kell tárolnia az adatbázisnak: ID (automatikusan generálódik), vezetéknév, keresztnév, e-mail cím, osztály, születési év
+A backend legyen képes az adatok kiolvasására és a frontendnek való átadásra, új adat rögzítésére, módosításra és törlésére.
+A frontend legyen képes a backendben tárolt adatokat kiírni egy oldalon, ugyanitt legyen lehetőség törlésre és módosításra is.
+A frontendben legyen külön oldalon az adatok hozzáadása.
+A weboldalnak legyen menürendszere, lehessen váltogatni a nézet és a hozzáadás között.
+A weboldal legyen bootstrapban formázott, egyedi háttérképpel és felépítéssel.
